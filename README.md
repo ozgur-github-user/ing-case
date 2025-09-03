@@ -18,8 +18,7 @@ This is a web application for managing a list of employees, built with Lit Eleme
 To get started, clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/lit-element-starter-js.git
-cd lit-element-starter-js
+git clone https://github.com/ozgur-github-user/ing-case.git
 npm install
 ```
 
@@ -27,13 +26,8 @@ npm install
 
 To run the application locally for development, use the following command. This will start a development server and open the application in your browser.
 
-```bash
+
 npm run serve
-```
-
-## Available Scripts
-
-### `npm run start`
 
 Runs the application in development mode.
 
@@ -58,7 +52,7 @@ Project has main directories below.
 
 ## Store Management
 
-In this project we dont have a heavy store data because of that lightweight store heas been created by RxJS.
+In this project we dont have a heavy store data because of that lightweight store has been created by RxJS.
 
 ## Testing
 
