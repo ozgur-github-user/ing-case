@@ -1,0 +1,10 @@
+{
+  "server": {
+    "baseDir": "./",
+    "routes": {
+      "/add-employee": "/index.html",
+      "/edit-employee": "/index.html",
+      "/": "/index.html"
+    }
+  }
+}
