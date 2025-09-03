@@ -48,6 +48,7 @@ export class EmployeeCards extends LitElement {
       ${this.deletingEmployee
         ? html`
             <confirm-modal
+              actionType="delete"
               .employee=${this.deletingEmployee}
               @confirm-delete=${this.confirmDelete}
               @cancel=${this.cancelDelete}
